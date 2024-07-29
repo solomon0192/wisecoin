@@ -1,0 +1,137 @@
+*{
+    box-sizing: border-box;
+    overflow-x: hidden;
+    overlay: none;
+}
+
+.img1{
+    height: 60px;
+    width: 60px;
+    /* margin-left: 550px; */
+    margin-top: 30px;
+}
+.iimmgg{
+    text-align: center;
+}
+
+.nav{
+    display: flex;
+    padding-top: 10px;
+}
+
+.mnm{
+    display: flex;
+    justify-content: space-between;
+}
+
+h1{
+    color: white;
+    font-size: 40px;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.bodynav{
+    background-color: lime;
+    height: 97.5vh;
+}
+
+.p1{
+    color: white;
+    margin: 0%;
+    position: absolute;
+    font-size: 30px;
+    margin-left: 630px;
+    font-weight: 700;
+    margin-top: 90px;
+}
+
+.img2{
+    height: 300px;
+    width: 300px;
+    margin-top: 15px;
+    position: absolute;
+}
+
+.lll{
+    text-align: center;
+}
+
+.sp{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    /* position: absolute; */
+    margin-top: 270px;
+    /* margin-left: 620px; */
+}
+
+.spn{
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+   
+}
+
+/* .bar{
+    background-color: lawngreen;
+    border: 2px solid green;
+    height: 30px;
+    margin-top: 300px;
+    width: 350px;
+    border-radius: 30px;
+    margin-left: 520px;
+} */
+
+.obj{
+    display: flex;
+    /* justify-content: space-between; */
+    /* margin-left: 400px; */
+    /* margin-right: 400px; */
+    
+    
+    
+}
+
+.obj2{
+    margin-right: 10px;
+    margin-left: 0px;
+}
+
+h5{
+    font-size: 30px;
+    margin-right: 10px;
+    margin-left: 0%;
+
+}
+
+.obj4{
+    background-color: green;
+    margin-top: 20px;
+    width: 70px;
+    border: 2px solid black;
+    height: 100px;
+    border-radius: 10px;
+    padding-left: 30px;
+    margin-right: 5px;
+
+}
+.obj1{
+    background-color: green;
+    margin-top: 20px;
+    margin-right: 5px;
+    width: 70px;
+    height: 100px;
+    padding-left: 30px;
+    border-radius: 10px;
+}
+
+.h6{
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+    height: auto;
+    width: 100px;
+    background-color: green;
+}
